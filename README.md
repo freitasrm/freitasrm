@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/48421138?v=4"  />
+<img align="left" height="150" src="https://github.com/freitasrm/freitasrm/blob/main/AAF5fef9W4E_1724736062867.png?raw=true"  />
 
 ###
 
