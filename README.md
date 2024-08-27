@@ -8,11 +8,11 @@
 
 <br clear="both">
 
-<img align="center" height="150" src="https://github.com/freitasrm/freitasrm/blob/main/AAF5fef9W4E_1724736062867.png?raw=true"  />
+<img align="left" height="150" src="https://github.com/freitasrm/freitasrm/blob/main/AAF5fef9W4E_1724736062867.png?raw=true"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/freitasrodrigom/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Rodrigo Martins</h1>
+<h1 align="left">Rodrigo Martins</h1>
 
 
 
